@@ -1,3 +1,6 @@
+import java.util.*;
+import java.io.*;
+
 public class DrawingTool {
     public static void main(String[] args) {
         //args[0] is the path to the input file

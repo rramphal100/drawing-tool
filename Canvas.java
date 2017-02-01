@@ -1,3 +1,6 @@
+import java.util.*;
+import java.io.*;
+
 public class Canvas {
     private char[][] canvas;
     private int width;
